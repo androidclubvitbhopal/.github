@@ -23,7 +23,7 @@
 ---
 
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8IS0tIGFudGVubmEgbGVmdCAtLT4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjM0REQzg0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiMzRERDODQiLz4KICA8IS0tIGFudGVubmEgcmlnaHQgLS0+CiAgPGxpbmUgeDE9IjI2IiB5MT0iMTAiIHgyPSIyOSIgeTI9IjUiIHN0cm9rZT0iIzNEREM4NCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSIyOSIgY3k9IjQuNSIgcj0iMS41IiBmaWxsPSIjM0REQzg0Ii8+CiAgPCEtLSBoZWFkIC0tPgogIDxwYXRoIGQ9Ik0xMCAxOCBRMTAgMTAgMjAgMTAgUTMwIDEwIDMwIDE4IEwzMCAyMCBRMzAgMjIgMjggMjIgTDEyIDIyIFExMCAyMiAxMCAyMCBaIiBmaWxsPSIjM0REQzg0Ii8+CiAgPCEtLSBleWVzIC0tPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPCEtLSBib2R5IC0tPgogIDxyZWN0IHg9IjkiIHk9IjIzIiB3aWR0aD0iMjIiIGhlaWdodD0iMTMiIHJ4PSIzIiBmaWxsPSIjM0REQzg0Ii8+CiAgPCEtLSBhcm1zIC0tPgogIDxyZWN0IHg9IjQiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iIzNEREM4NCIvPgogIDxyZWN0IHg9IjMyIiB5PSIyMyIgd2lkdGg9IjQiIGhlaWdodD0iOSIgcng9IjIiIGZpbGw9IiMzRERDODQiLz4KICA8IS0tIGxlZ3MgLS0+CiAgPHJlY3QgeD0iMTIiIHk9IjM1IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMiIgZmlsbD0iIzNEREM4NCIvPgogIDxyZWN0IHg9IjIzIiB5PSIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IiMzRERDODQiLz4KPC9zdmc+Cg==" width="28" height="28" align="center" style="vertical-align: middle;" /> About Us
+## <img src="../assets/about.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> About Us
 
 > **Android Club VIT Bhopal** is the official technical club dedicated to mobile & software development at VIT Bhopal University. We bring together passionate developers to learn, build, and innovate together from Android & Kotlin to Flutter, React Native, IoT & ML integrations.
 
@@ -31,7 +31,7 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjMDBCQ0Q0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiMwMEJDRDQiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjMDBCQ0Q0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiMwMEJDRDQiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iIzAwQkNENCIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPCEtLSB3YXZpbmcgYXJtIHJpZ2h0IC0tPgogIDxyZWN0IHg9IjMyIiB5PSIyMCIgd2lkdGg9IjQiIGhlaWdodD0iOSIgcng9IjIiIGZpbGw9IiMwMEJDRDQiIHRyYW5zZm9ybT0icm90YXRlKC0zMCAzNCAyMCkiLz4KICA8cmVjdCB4PSI5IiB5PSIyMyIgd2lkdGg9IjIyIiBoZWlnaHQ9IjEzIiByeD0iMyIgZmlsbD0iIzAwQkNENCIvPgogIDxyZWN0IHg9IjQiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iIzAwQkNENCIvPgogIDxyZWN0IHg9IjEyIiB5PSIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IiMwMEJDRDQiLz4KICA8cmVjdCB4PSIyMyIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjMDBCQ0Q0Ii8+Cjwvc3ZnPgo=" width="28" height="28" align="center" style="vertical-align: middle;" /> What We Do
+## <img src="../assets/activity.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> What We Do
 
 <div align="center">
 
@@ -47,7 +47,7 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjRkY3MDQzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNGRjcwNDMiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjRkY3MDQzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNGRjcwNDMiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iI0ZGNzA0MyIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPHJlY3QgeD0iOSIgeT0iMjMiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiNGRjcwNDMiLz4KICA8IS0tIGFybXMgaG9sZGluZyB3cmVuY2ggLS0+CiAgPHJlY3QgeD0iNCIgeT0iMjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIyIiBmaWxsPSIjRkY3MDQzIi8+CiAgPHJlY3QgeD0iMzIiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iI0ZGNzA0MyIvPgogIDwhLS0gd3JlbmNoIGljb24gb24gYm9keSAtLT4KICA8dGV4dCB4PSIyMCIgeT0iMzIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0id2hpdGUiPuKamTwvdGV4dD4KICA8cmVjdCB4PSIxMiIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjRkY3MDQzIi8+CiAgPHJlY3QgeD0iMjMiIHk9IjM1IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMiIgZmlsbD0iI0ZGNzA0MyIvPgo8L3N2Zz4K" width="28" height="28" align="center" style="vertical-align: middle;" /> Our Tech Stack
+## <img src="../assets/tech-stack.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> Our Tech Stack
 
 <div align="center">
 
@@ -62,7 +62,6 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 
 **🌐 Web & Frontend**
 
@@ -81,7 +80,6 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -116,7 +114,6 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **🛠️ Tools & IDEs**
@@ -130,7 +127,6 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -138,7 +134,7 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjN0M0REZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiM3QzRERkYiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjN0M0REZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiM3QzRERkYiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iIzdDNERGRiIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPHJlY3QgeD0iOSIgeT0iMjMiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiM3QzRERkYiLz4KICA8cmVjdCB4PSI0IiB5PSIyMyIgd2lkdGg9IjQiIGhlaWdodD0iOSIgcng9IjIiIGZpbGw9IiM3QzRERkYiLz4KICA8cmVjdCB4PSIzMiIgeT0iMjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIyIiBmaWxsPSIjN0M0REZGIi8+CiAgPCEtLSByb2NrZXQgb24gYm9keSAtLT4KICA8dGV4dCB4PSIyMCIgeT0iMzIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iOCIgZmlsbD0id2hpdGUiPuKWsjwvdGV4dD4KICA8cmVjdCB4PSIxMiIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjN0M0REZGIi8+CiAgPHJlY3QgeD0iMjMiIHk9IjM1IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMiIgZmlsbD0iIzdDNERGRiIvPgo8L3N2Zz4K" width="28" height="28" align="center" style="vertical-align: middle;" /> Featured Projects
+## <img src="../assets/projects.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> Featured Projects
 
 <div align="center">
 
@@ -150,7 +146,7 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjRkZDMTA3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNGRkMxMDciLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjRkZDMTA3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNGRkMxMDciLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iI0ZGQzEwNyIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPHJlY3QgeD0iOSIgeT0iMjMiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiNGRkMxMDciLz4KICA8cmVjdCB4PSI0IiB5PSIyMyIgd2lkdGg9IjQiIGhlaWdodD0iOSIgcng9IjIiIGZpbGw9IiNGRkMxMDciLz4KICA8cmVjdCB4PSIzMiIgeT0iMjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIyIiBmaWxsPSIjRkZDMTA3Ii8+CiAgPCEtLSBiYXIgY2hhcnQgb24gYm9keSAtLT4KICA8cmVjdCB4PSIxMyIgeT0iMzAiIHdpZHRoPSIzIiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjkiLz4KICA8cmVjdCB4PSIxOCIgeT0iMjgiIHdpZHRoPSIzIiBoZWlnaHQ9IjYiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjkiLz4KICA8cmVjdCB4PSIyMyIgeT0iMjYiIHdpZHRoPSIzIiBoZWlnaHQ9IjgiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjkiLz4KICA8cmVjdCB4PSIxMiIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjRkZDMTA3Ii8+CiAgPHJlY3QgeD0iMjMiIHk9IjM1IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMiIgZmlsbD0iI0ZGQzEwNyIvPgo8L3N2Zz4K" width="28" height="28" align="center" style="vertical-align: middle;" /> Organization Stats
+## <img src="../assets/android-bot.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> Organization Stats
 
 <div align="center">
 
@@ -171,7 +167,7 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjMjZDNkRBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiMyNkM2REEiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjMjZDNkRBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiMyNkM2REEiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iIzI2QzZEQSIvPgogIDwhLS0gc21pbGluZyBleWVzIC0tPgogIDxwYXRoIGQ9Ik0xNCAxNSBRMTYgMTcuNSAxOCAxNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik0yMiAxNSBRMjQgMTcuNSAyNiAxNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxyZWN0IHg9IjkiIHk9IjIzIiB3aWR0aD0iMjIiIGhlaWdodD0iMTMiIHJ4PSIzIiBmaWxsPSIjMjZDNkRBIi8+CiAgPHJlY3QgeD0iNCIgeT0iMjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIyIiBmaWxsPSIjMjZDNkRBIi8+CiAgPHJlY3QgeD0iMzIiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iIzI2QzZEQSIvPgogIDxyZWN0IHg9IjEyIiB5PSIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IiMyNkM2REEiLz4KICA8cmVjdCB4PSIyMyIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjMjZDNkRBIi8+Cjwvc3ZnPgo=" width="28" height="28" align="center" style="vertical-align: middle;" /> Our Team
+## <img src="../assets/team.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> Our Team
 
 <div align="center">
 
@@ -185,7 +181,7 @@ We are a growing community of passionate developers, designers, and innovators a
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjNjZCQjZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiM2NkJCNkEiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjNjZCQjZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiM2NkJCNkEiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iIzY2QkI2QSIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPHJlY3QgeD0iOSIgeT0iMjMiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiM2NkJCNkEiLz4KICA8IS0tIHJpZ2h0IGFybSByYWlzZWQgdXAgLS0+CiAgPHJlY3QgeD0iMzIiIHk9IjE4IiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iIzY2QkI2QSIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ1IDM0IDIyKSIvPgogIDxyZWN0IHg9IjQiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iIzY2QkI2QSIvPgogIDxyZWN0IHg9IjEyIiB5PSIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IiM2NkJCNkEiLz4KICA8cmVjdCB4PSIyMyIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjNjZCQjZBIi8+Cjwvc3ZnPgo=" width="28" height="28" align="center" style="vertical-align: middle;" /> How to Get Involved
+## <img src="../assets/get-involved.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> How to Get Involved
 
 ```bash
 # Step 1: Star our repositories ⭐
@@ -199,7 +195,7 @@ We welcome contributors of **all skill levels**. Check out our repositories, ope
 
 ---
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4Ij4KICA8bGluZSB4MT0iMTQiIHkxPSIxMCIgeDI9IjExIiB5Mj0iNSIgc3Ryb2tlPSIjRUY1MzUwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjExIiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNFRjUzNTAiLz4KICA8bGluZSB4MT0iMjYiIHkxPSIxMCIgeDI9IjI5IiB5Mj0iNSIgc3Ryb2tlPSIjRUY1MzUwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjI5IiBjeT0iNC41IiByPSIxLjUiIGZpbGw9IiNFRjUzNTAiLz4KICA8cGF0aCBkPSJNMTAgMTggUTEwIDEwIDIwIDEwIFEzMCAxMCAzMCAxOCBMMzAgMjAgUTMwIDIyIDI4IDIyIEwxMiAyMiBRMTAgMjIgMTAgMjAgWiIgZmlsbD0iI0VGNTM1MCIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjE2IiByPSIxLjgiIGZpbGw9IndoaXRlIi8+CiAgPHJlY3QgeD0iOSIgeT0iMjMiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiNFRjUzNTAiLz4KICA8cmVjdCB4PSI0IiB5PSIyMyIgd2lkdGg9IjQiIGhlaWdodD0iOSIgcng9IjIiIGZpbGw9IiNFRjUzNTAiLz4KICA8cmVjdCB4PSIzMiIgeT0iMjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIyIiBmaWxsPSIjRUY1MzUwIi8+CiAgPCEtLSB3aWZpL3NpZ25hbCBvbiBib2R5IC0tPgogIDxwYXRoIGQ9Ik0xNiAzMSBRMjAgMjcgMjQgMzEiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTMgMzQgUTIwIDI3IDI3IDM0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGNpcmNsZSBjeD0iMjAiIGN5PSIzMyIgcj0iMS4yIiBmaWxsPSJ3aGl0ZSIvPgogIDxyZWN0IHg9IjEyIiB5PSIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IiNFRjUzNTAiLz4KICA8cmVjdCB4PSIyMyIgeT0iMzUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIyIiBmaWxsPSIjRUY1MzUwIi8+Cjwvc3ZnPgo=" width="28" height="28" align="center" style="vertical-align: middle;" /> Connect With Us
+## <img src="../assets/contact.svg" width="28" height="28" align="center" style="vertical-align: middle;" /> Connect With Us
 
 <div align="center">
 

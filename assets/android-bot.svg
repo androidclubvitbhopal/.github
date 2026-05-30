@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="28" height="28">
+  <!-- antenna left -->
+  <line x1="14" y1="10" x2="11" y2="5"
+        stroke="#3DDC84" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="11" cy="4.5" r="1.5" fill="#3DDC84"/>
+
+  <!-- antenna right -->
+  <line x1="26" y1="10" x2="29" y2="5"
+        stroke="#3DDC84" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="29" cy="4.5" r="1.5" fill="#3DDC84"/>
+
+  <!-- head -->
+  <path
+    d="M10 18 Q10 10 20 10 Q30 10 30 18 L30 20 Q30 22 28 22 L12 22 Q10 22 10 20 Z"
+    fill="#3DDC84"
+  />
+
+  <!-- eyes -->
+  <circle cx="16" cy="16" r="1.8" fill="white"/>
+  <circle cx="24" cy="16" r="1.8" fill="white"/>
+
+  <!-- body -->
+  <rect x="9" y="23" width="22" height="13" rx="3" fill="#3DDC84"/>
+
+  <!-- arms -->
+  <rect x="4" y="23" width="4" height="9" rx="2" fill="#3DDC84"/>
+  <rect x="32" y="23" width="4" height="9" rx="2" fill="#3DDC84"/>
+
+  <!-- legs -->
+  <rect x="12" y="35" width="5" height="5" rx="2" fill="#3DDC84"/>
+  <rect x="23" y="35" width="5" height="5" rx="2" fill="#3DDC84"/>
+</svg>
