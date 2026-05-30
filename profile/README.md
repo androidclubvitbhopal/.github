@@ -14,7 +14,6 @@
 <br/>
 
 <!-- Badges -->
-![Followers](https://img.shields.io/github/followers/androidclubvitbhopal?label=Followers&style=for-the-badge&color=3DDC84&labelColor=1a1a2e&logo=github)
 ![Location](https://img.shields.io/badge/📍_VIT_Bhopal-India-0078D7?style=for-the-badge&labelColor=1a1a2e)
 ![Email](https://img.shields.io/badge/Email-androidclub%40vitbhopal.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)
 [![CLUB WEBSITE](https://img.shields.io/badge/CLUB_WEBSITE-ANDROID_CLUB-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://androidclub.tech/)
@@ -156,8 +155,8 @@ We believe in **learning by building**, **growing together**, and **shipping rea
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Repositories-7-3DDC84?style=for-the-badge&logo=github&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/androidclubvitbhopal?label=Followers&style=for-the-badge&color=0078D7&labelColor=0d1117&logo=github)
-![Members](https://img.shields.io/badge/Members-6-7F52FF?style=for-the-badge&logo=groups&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/Followers-26-3DDC84?style=for-the-badge)
+![Members](https://img.shields.io/badge/Members-28-7F52FF?style=for-the-badge&logo=groups&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/VIT_Bhopal-India-EA4335?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117)
 
 <br/>
